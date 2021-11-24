@@ -14,10 +14,10 @@ body{
   height: 100vh;
   /* overflow: hidden; */
   padding: 10px;
-  background: linear-gradient(to bottom, #ee0979 0%, #ff6a00 100%);
+  background: linear-gradient(to bottom, #380036 0%, #7f5a83 100%);
 }
 .wrapper{
-  background: #fff;
+  background: #F6E5F6;
   max-width: 400px;
   width: 100%;
   margin: 120px auto;
@@ -40,7 +40,7 @@ body{
   height: 100%;
   outline: none;
   border-radius: 3px;
-  border: 1px solid #ccc;
+  border: 1px solid #F6E5F6;
   font-size: 17px;
   padding-left: 15px;
   transition: all 0.3s ease;
@@ -56,7 +56,7 @@ body{
   margin-left: 5px;
   font-size: 21px;
   outline: none;
-  background: #3a7bd5;
+  background: #8806CE;
   cursor: pointer;
   border-radius: 3px;
   opacity: 0.6;
@@ -65,7 +65,7 @@ body{
 }
 .inputField button:hover,
 .footer button:hover{
-  background: #721ce3;
+  background: #5A2776;
 }
 .inputField button.active{
   opacity: 1;
@@ -79,7 +79,7 @@ body{
   position: relative;
   list-style: none;
   margin-bottom: 8px;
-  background: #f2f2f2;
+  background: #DED5E8;
   border-radius: 3px;
   padding: 10px 15px;
   cursor: default;
@@ -119,7 +119,7 @@ body{
   font-weight: 400;
   font-size: 16px;
   margin-left: 5px;
-  background: #3a7bd5;
+  background: #8806CE;
   cursor: pointer;
   user-select: none;
   opacity: 0.85;
